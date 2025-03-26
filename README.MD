@@ -3,7 +3,7 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:** Belen Lucila Grosso*  
+- **Nombre:** Belen Lucila Grosso
 - **Comisión:** M2025-15
 
 ## 📂 Descripción del Repositorio  
