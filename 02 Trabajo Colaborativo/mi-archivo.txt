@@ -1,0 +1,2 @@
+Hola, mi nombre es Hernan y este es un archivo de texto comun.
+Lo estoy utilizando en este formato para la actividad 2 del TP de la unidad 2 de la TUPAD.
