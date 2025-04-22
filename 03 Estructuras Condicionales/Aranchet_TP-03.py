@@ -179,7 +179,6 @@ else:
         estacion_norte = "Otoño"
         estacion_sur = "Primavera"
 
-    # Mostrar resultado según hemisferio
     if hemisferio == 'N':
         print(f"Estación actual: {estacion_norte}")
     else:
